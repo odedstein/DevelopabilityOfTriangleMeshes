@@ -1,0 +1,17 @@
+2018, Oded Stein, Eitan Grinspun and Keenan Crane
+
+
+The code that we wrote is released under the GNU General Public License, version 2, which can be found in the file GPLv2.txt.
+
+The code uses the Libigl library which is licensed under the Mozilla Public License 2.0, with some parts licensed under the GNU GPL. libigl can be found here: https://github.com/libigl/libigl.
+The licenses used in libigl and further license info on libigl can be found in the file libigl/LICENSE.md
+
+The numerical diagonalization of 3x3 matrices code is not by us, it is a slightly modified code published by Joachim Kopp under the GNU Lesser General Public License, version 2.1 here: https://www.mpi-hd.mpg.de/personalhomes/globes/3x3/.
+The GNU LGPLv2.1 can be found in the file LGPLv2.1.txt
+
+
+If you are interested in obtaining the code with a different license, please contact the authors:
+Oded Stein <oded.stein@columbia.edu>
+Eitan Grinspun <eitan@cs.columbia.edu>
+Keenan Crane <kmcrane@cs.cmu.edu>
+
